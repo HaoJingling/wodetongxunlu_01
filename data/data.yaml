@@ -1,0 +1,10 @@
+
+test_add_phone:
+  test_add_phone_001:
+    name: "张太"
+    nickname: "美女"
+    phone: "189"
+  test_add_phone_002:
+    name: "李涛"
+    nickname: "帅哥"
+    phone: "180000"
